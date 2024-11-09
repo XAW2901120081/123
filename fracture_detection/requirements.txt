@@ -8,4 +8,4 @@ scipy
 Pillow
 tqdm
 pyyaml
-ultralytics == 8.0.48
+ultralytics
